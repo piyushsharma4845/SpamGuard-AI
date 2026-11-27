@@ -1,0 +1,21 @@
+{
+    "results": {
+        "Naive Bayes": {
+            "accuracy": 0.9690949227373068,
+            "precision": 0.9940828402366864,
+            "recall": 0.9281767955801105,
+            "f1_score": 0.96,
+            "macro_f1": 0.9674100719424461
+        },
+        "Logistic Regression": {
+            "accuracy": 0.9790286975717439,
+            "precision": 0.9858356940509915,
+            "recall": 0.9613259668508287,
+            "f1_score": 0.9734265734265735,
+            "macro_f1": 0.9780533049448272
+        }
+    },
+    "best_model": "Logistic Regression",
+    "training_samples": 3624,
+    "testing_samples": 906
+}
